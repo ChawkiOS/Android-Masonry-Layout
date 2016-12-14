@@ -36,4 +36,7 @@ dependencies {
     // recycler, card view
     compile 'com.android.support:recyclerview-v7:23.4.0'
     compile 'com.android.support:cardview-v7:23.4.0'
+
+    // Like Button
+    compile 'com.github.jd-alexander:LikeButton:0.2.0'
 }
